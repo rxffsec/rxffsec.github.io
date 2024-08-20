@@ -1,12 +1,19 @@
 ---
 title: Hackthebox - Reddish
-description: writeup of the HTB machine Reddish.
+description: writeup of the HTB machine Reddish. Lots of pivoting involved
 author: rxffsec
 date: 2024-08-19 06:06:06 -0600
-categories: [CTF,HTB]
-tags: [writeup]
+categories:
+  - CTF
+  - HTB
+tags:
+  - writeup
+  - pivoting
+  - redis
+  - nodered
+  - eccptv2
 image:
-    path: /assets/img/htb/reddish/reddish.png
+  path: /assets/img/htb/reddish/reddish.png
 ---
 
 Reddish provides an excellent platform for honing pivoting skills, encompassing a diverse range of scenarios. These scenarios include addressing a node-red misconfiguration, exploiting a misconfigured Redis instance to gain a webshell, using rsync manipulation to inject into a cronjob for a reverse shell, and exploiting a misconfiguration enabling an attacker to mount the entire root filesystem on any location. Additionally, reddish offers opportunities for advanced pivoting techniques such as port forwarding using chisel and tunnel creation with socat.

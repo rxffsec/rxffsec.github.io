@@ -3,10 +3,14 @@ title: Hackthebox - Hospital
 description: writeup of the HTB machine Hospital.
 author: rxffsec
 date: 2024-08-19 06:15:00 -0600
-categories: [CTF,HTB]
-tags: [writeup]
+categories:
+  - CTF
+  - HTB
+tags:
+  - writeup
+  - ghostscript
 image:
-    path: /assets/img/htb/hospital/hospital.png
+  path: /assets/img/htb/hospital/hospital.png
 ---
 
 Hospital is a medium-level challenge on HackTheBox, that covers a diverse range of exploitation techniques. Beginning with the discovery of a file upload vulnerability, leading to the exploitation of a privilege escalation flaw on a Linux server using 'unshare' [CVE-2023-2640 & CVE-2023-32629 GameOver(lay)]. Continuing with the creation of a malicious EPS file to exploit a command injection vulnerability in Ghostscript to get access to a Windows machine[CVE-2023-36664]. Additionally, finding various paths for achieving administrative access, such as exploiting misconfigurations in XAMPP by uploading an administrative webshell, and uncovering plaintext credentials via RDP.
@@ -329,9 +333,13 @@ The user flag is at __C:\Users\drbrown.HOSPITAL\Desktop__
 Go to C:\xampp\htdocs and upload the [p0wny-shell](https://github.com/flozz/p0wny-shell) there.
 
 serving the p0wny shell 
+
+
 ![serving p0wny](/assets/img/htb/hospital/serving_p0wny_1.png)
 
 downloading the p0wny shell in the htdocs directory
+
+
 ![saving p0wny](/assets/img/htb/hospital/saving_p0wny_htdocs.png)
 
 Navigate to https://hospital.htb/pwny.php and a shell as nt authority will be given
