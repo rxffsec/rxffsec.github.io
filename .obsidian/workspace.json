@@ -148,6 +148,8 @@
   },
   "active": "c37beff092e21e16",
   "lastOpenFiles": [
+    "_site/tags/rsa-decryption/index.html",
+    "_site/tags/rsa-decryption",
     "_posts/2024-08-20-htb-charon.md",
     "_posts/2024-08-21-htb-charon.md",
     "_posts/2024-08-20-htb-charon.md~",
@@ -170,7 +172,6 @@
     "_site/tags/file-upload",
     "_site/tags/cracking-hashes/index.html",
     "_site/tags/cracking-hashes",
-    "_site/tags/sqli/index.html",
     "_posts/2024-08-20-htb-bastard.md",
     "_posts/2024-08-19-htb-reddish.md",
     "_posts/2024-08-20-htb-buff.md",

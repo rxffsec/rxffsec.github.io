@@ -10,7 +10,7 @@ tags:
   - sqli
   - cracking_hashes
   - file_upload
-  - decryption
+  - rsa_decryption
   - suid_privesc
   - hackthebox
 image:
