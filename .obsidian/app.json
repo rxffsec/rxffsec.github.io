@@ -1,7 +1,9 @@
 {
-  "attachmentFolderPath": "assets/img/htb/bastard",
+  "attachmentFolderPath": "/assets/img/htb/charon",
   "newLinkFormat": "absolute",
   "readableLineLength": false,
   "showLineNumber": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "trashOption": "none",
+  "useMarkdownLinks": true
 }
