@@ -11,6 +11,7 @@ tags:
   - drupal
   - potato_privesc
   - clsid
+  - hackthebox
 image:
   path: /assets/img/htb/bastard/bastard.png
 ---

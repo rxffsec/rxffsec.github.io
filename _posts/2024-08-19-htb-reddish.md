@@ -12,6 +12,7 @@ tags:
   - redis
   - nodered
   - eccptv2
+  - hackthebox
 image:
   path: /assets/img/htb/reddish/reddish.png
 ---

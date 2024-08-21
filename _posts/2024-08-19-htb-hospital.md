@@ -9,6 +9,7 @@ categories:
 tags:
   - writeup
   - ghostscript
+  - hackthebox
 image:
   path: /assets/img/htb/hospital/hospital.png
 ---
