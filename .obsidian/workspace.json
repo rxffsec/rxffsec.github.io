@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-08-20-htb-bastard.md",
+                "file": "_posts/2024-08-20-htb-blue.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-08-20-htb-bastard.md",
+                "file": "_posts/2024-08-20-htb-blue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-08-20-htb-bastard.md",
+                "file": "_posts/2024-08-20-htb-blue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-08-20-htb-bastard.md"
+                "file": "_posts/2024-08-20-htb-blue.md"
               }
             }
           }
@@ -148,33 +148,33 @@
   },
   "active": "c37beff092e21e16",
   "lastOpenFiles": [
+    "_posts/2024-08-20-htb-bastard.md",
+    "_site/assets/img/htb/blue/blue.png",
+    "_site/assets/img/htb/blue",
+    "assets/img/htb/blue/blue.png",
+    "assets/img/htb/blue",
+    "_site/tags/eternal-blue/index.html",
+    "_site/tags/eternal-blue",
+    "_posts/2024-08-20-htb-blue.md~",
+    "_site/posts/htb-blue/index.html",
+    "_site/posts/htb-blue",
+    "_posts/2024-08-20-htb-blue.md",
     "_site/tags/clsid/index.html",
     "_site/tags/clsid",
     "_site/tags/potato-privesc/index.html",
-    "_site/tags/potato-privesc",
-    "_site/tags/drupal/index.html",
-    "_site/tags/drupal",
     "_posts/2024-08-19-htb-reddish.md",
-    "_posts/2024-08-20-htb-bastard.md",
     "_posts/2024-08-20-htb-buff.md",
     "_site/assets/img/htb/bastard/drupal_login_1.png",
     "_site/assets/img/htb/bastard/Pasted image 20240820174128.png",
     "assets/img/htb/bastard/drupal_login_1.png",
     "_site/assets/img/htb/bastard/bastard.png",
-    "_site/assets/img/htb/bastard",
     "assets/img/htb/bastard/bastard.png",
-    "_site/posts/htb-bastard/index.html",
-    "_site/posts/htb-bastard",
-    "assets/img/htb/bastard",
     "assets/img/htb/bastard.md",
     "_site/assets/img/htb/bastard.md",
     "_site/assets/img/htb/Untitled.md",
     "_posts/2024-08-19-htb-hospital.md",
-    "_site/tags/ghostscript/index.html",
     "_site/assets/img/htb/buff/instructions_1.png",
     "_site/assets/img/htb/buff/Pasted image 20240820154955.png",
-    "assets/img/htb/buff/instructions_1.png",
-    "_site/assets/img/htb/buff/findall_1.png",
-    "_site/assets/img/htb/buff/Pasted image 20240820154919.png"
+    "assets/img/htb/buff/instructions_1.png"
   ]
 }
