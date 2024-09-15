@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c673db7f5daf612a",
+        "id": "ec1af05c826f300d",
         "type": "tabs",
         "children": [
           {
-            "id": "c37beff092e21e16",
+            "id": "c4c21ec050092ae9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-08-20-htb-blue.md",
+                "file": "_posts/2024-09-15-htb-forest.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-08-20-htb-blue.md",
+                "file": "_posts/2024-09-15-htb-forest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-08-20-htb-blue.md",
+                "file": "_posts/2024-09-15-htb-forest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-08-20-htb-blue.md"
+                "file": "_posts/2024-09-15-htb-forest.md"
               }
             }
           }
@@ -146,32 +146,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c37beff092e21e16",
+  "active": "0f87f831bdb15477",
   "lastOpenFiles": [
+    "_site/assets/img/htb/forest/path3.png",
+    "_site/assets/img/htb/forest/Pasted image 20240915125305.png",
+    "assets/img/htb/forest/path3.png",
+    "_site/assets/img/htb/forest/info1.png",
+    "_site/assets/img/htb/forest/Pasted image 20240915122338.png",
+    "assets/img/htb/forest/info1.png",
+    "_site/assets/img/htb/forest/info.png",
+    "_site/assets/img/htb/forest/Pasted image 20240915122207.png",
+    "assets/img/htb/forest/info.png",
+    "_site/assets/img/htb/forest/node2.png",
+    "_site/assets/img/htb/forest/Pasted image 20240915122115.png",
+    "_posts/2024-09-15-htb-forest.md",
+    "_posts/2024-08-20-htb-blue.md",
+    "_site/posts/htb-forest/index.html",
+    "_site/posts/htb-forest",
+    "_site/assets/img/htb/forest",
+    "_site/tags/activedirectory/index.html",
+    "_site/tags/activedirectory",
+    "assets/img/htb/forest",
     "_posts/2024-08-21-htb-charon.md~",
     "_site/tags/rsa-decryption/index.html",
     "_site/tags/rsa-decryption",
     "_posts/2024-08-20-htb-charon.md",
     "_posts/2024-08-21-htb-charon.md",
     "_posts/2024-08-20-htb-charon.md~",
-    "_site/assets/img/htb/charon/command_1.png",
-    "_site/assets/img/htb/charon/Pasted image 20240821105443.png",
-    "assets/img/htb/charon/command_1.png",
-    "_site/assets/img/htb/charon/upload_3.png",
-    "_site/assets/img/htb/charon/Pasted image 20240821105314.png",
-    "assets/img/htb/charon/upload_3.png",
-    "_site/assets/img/htb/charon/upload_2.png",
-    "_site/assets/img/htb/charon/Pasted image 20240821105242.png",
-    "assets/img/htb/charon/upload_2.png",
-    "_site/assets/img/htb/charon/upload_1.png",
-    "_posts/2024-08-20-htb-blue.md",
-    "_site/tags/suid-privesc/index.html",
-    "_site/tags/suid-privesc",
-    "_site/tags/decryption/index.html",
-    "_site/tags/decryption",
-    "_site/tags/file-upload/index.html",
-    "_site/tags/file-upload",
-    "_site/tags/cracking-hashes/index.html",
     "_posts/2024-08-20-htb-bastard.md",
     "_posts/2024-08-19-htb-reddish.md",
     "_posts/2024-08-20-htb-buff.md",
